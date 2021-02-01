@@ -1,0 +1,24 @@
+{
+  "medicalReport": [
+    {
+      "name": "HQMS",
+      "number": 2000
+    },
+    {
+      "name": " 二级公立绩效",
+      "number": 23200
+    },
+    {
+      "name": "三级公立绩效",
+      "number": 200320
+    },
+    {
+      "name": "卫统上报",
+      "number": 203100
+    },
+    {
+      "name": "医保上报",
+      "number": 91332
+    }
+  ]
+}
